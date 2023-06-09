@@ -2,11 +2,6 @@
 .lando
 # Lando database files
 *.sql
-# Drupal files and directories
-/sites/*/settings/*.php
-/sites/*/settings/*.yml
-/sites/*/files
-/sites/*/private
 # Composer dependencies
 /vendor
 # Drupal core

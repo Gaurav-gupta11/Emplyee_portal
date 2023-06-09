@@ -1,6 +1,6 @@
 uuid: a5166951-56cd-4fda-8ac6-e3e7807ac524
 langcode: en
-status: true
+status: false
 dependencies:
   module:
     - help
@@ -11,7 +11,7 @@ _core:
 id: olivero_help
 theme: olivero
 region: content_above
-weight: 0
+weight: -7
 provider: null
 plugin: help_block
 settings:

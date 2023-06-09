@@ -18,6 +18,7 @@ BDFL
 
 Product managers
 - Dries Buytaert 'dries' https://www.drupal.org/u/dries
+- Angela Byron 'webchick' https://www.drupal.org/u/webchick
 - Gábor Hojtsy 'Gábor Hojtsy' https://www.drupal.org/u/gábor-hojtsy
 - Roy Scholten 'yoroy' https://www.drupal.org/u/yoroy
 
@@ -77,7 +78,7 @@ Ban
 - ?
 
 Base system
-- See "Framework managers" above.
+- ?
 
 Basic Auth
 - Juampy Novillo Requena 'juampy' https://www.drupal.org/u/juampy
